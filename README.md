@@ -5,4 +5,7 @@ This is the url for anima app whuch converted it to FRont end codes :
 https://dev.animaapp.com/chat/m8c6ipdkfoSAjP?frameName=STOCK+ANALYTICS+-+Desktop+-+1
 Which I have published here:
 https://black-block-1576.dev.animaapp.io/
+Photo:
+![image](https://github.com/user-attachments/assets/d8c57571-c4ab-42c5-8841-6cd83a4a503e)
+
 
